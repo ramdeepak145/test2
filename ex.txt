@@ -1,2 +1,7 @@
 I am in version control
+<<<<<<< HEAD
 zemoso
+=======
+assignment 1
+>>>>>>> 2c2ec20c08342f7c97aa18f8f1bb57078fe9188c
+8179967489
